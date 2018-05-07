@@ -1,1 +1,2 @@
 # AiRBnB-New-User-Bookings
+Analyzed visitor attributes like gender, age, login system, browsers, affiliate channels etc. to predict where a new user will book the first destination among 12 destinations by implementing cross-validation using Multinomial Logistic Regression, eXtreme Gradient Boosting, Neural Networks, Random Forest, and Multinomial Naive Bayes on an unbalanced training dataset. Evaluated and chose the best performing model based on Normalized Discounted Cumulative Gain (NDCG).
